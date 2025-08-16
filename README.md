@@ -4,10 +4,10 @@
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 Biblioteca Python para um assistente virtual com capacidades de:
--> Pesquisa automatizada na web
--> Processamento de linguagem natural
--> Aprendizado contínuo
--> Resumo de conteúdo
+> Pesquisa automatizada na web
+> Processamento de linguagem natural
+> Aprendizado contínuo
+> Resumo de conteúdo
 
 ## 📦 Instalação
 ```bash
