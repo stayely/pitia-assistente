@@ -571,7 +571,8 @@ class AssistenteAvancado:
             'olá': 'Olá! Pronto para ajudar.',
             'bom dia': 'Bom dia! Como posso ser útil hoje?',
             'boa tarde': 'Boa tarde! Em que posso ajudar?',
-            'boa noite': 'Boa noite! Como posso ajudar?'
+            'boa noite': 'Boa noite! Como posso ajudar?',
+            #adicione mais resposta prontas se preferir.
         }
         
         consulta_normalizada = consulta.lower().strip()
@@ -705,4 +706,5 @@ class AssistenteAvancado:
                 break
             except Exception as e:
                 print(f"Erro: {e}")
+
                 print("Ocorreu um erro inesperado. Podemos tentar novamente?")
