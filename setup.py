@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="pitia",
     version="0.1.0",
-    author="Stayel",
+    author="Stayely",
     author_email="lsszdst@gmail.com",
     description="Assistente virtual com memória e aprendizado contínuo",
     long_description=long_description,
@@ -34,4 +34,5 @@ setup(
         "Natural Language :: Portuguese",
         "Topic :: Scientific/Engineering :: Artificial Intelligence"
     ],
+
 )
