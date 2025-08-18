@@ -12,3 +12,5 @@ Biblioteca Python para um assistente virtual com capacidades de:
 ## 📦 Instalação
 ```bash
 pip install git+https://github.com/stayely/pitia-assistente.git
+
+pip install pitia
